@@ -1,2 +1,2 @@
 # python
-python training
+Python testing some projects
